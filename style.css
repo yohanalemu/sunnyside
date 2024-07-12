@@ -23,7 +23,7 @@ p{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background:url(/images/desktop/image-header.jpg);
+    background:url(images/desktop/image-header.jpg);
     background-size: cover;
     background-position: center top;   
     
